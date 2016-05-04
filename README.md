@@ -11,7 +11,7 @@ Create root folder (ex: BlogProject), then create folder names in root folder: C
 
 Navigate to root Directory and execute following command in terminal: jekyll build
 
-Then use: jekyll serve 
+Then execute: jekyll serve 
 
-Open chrome then navigate to: 127.0.0.1:4000 
+Open chrome and navigate to: 127.0.0.1:4000 
   
